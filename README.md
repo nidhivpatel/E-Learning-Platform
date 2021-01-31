@@ -1,2 +1,3 @@
 # elearningplatform
-This is a small online learning platform as a project work of semester 4
+<b>Sem4 project of SP</b>
+This is a small online learning platform 

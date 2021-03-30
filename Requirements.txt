@@ -1,0 +1,39 @@
+-->PROJRCT TITLE: E-Learning Management System
+
+-->PYTHON VERSION=3.9.1
+
+-->DJANGO VERSION=3.1.5
+
+-->IMPORTED LIBRARIES:
+1.pylint
+2.pillow
+3.mathfilter
+
+-->IMPLEMENTED REQUIREMENTS:
+1.Admin can
+	-->Add categories
+	-->Add course(as per to category)
+	-->ViewCourse
+	-->Deletecourse
+	-->Add coursecontent
+	-->Delete coursecontent
+	#Above functionality can be performed by admin,
+		if she has loggedin.	
+	-->logout
+
+2.User can do
+	#without login:
+		-->view course
+		-->search for course by course name
+	#with login:
+		-->enroll for course
+		-->view all enrolled courses(inprogress and completed both)
+		-->view his/her profile
+		-->view coursecontent of enrolled courses
+		-->delete his/her acoount(If he/she deletes his/her account,
+					his/her history of enrolled courses will
+					be deleted from site.)
+	-->logout
+
+ 
+	
